@@ -1,4 +1,4 @@
-# SimplePlacePicker Android
+# Android
 If you have a use case that requires searching and selecting a specific location on map ,
 Here is a nice independent module that you can simply import into your project to handle
 this scenario with some customizations
@@ -19,7 +19,7 @@ this scenario with some customizations
 3. Google Places Api key
 
 ## Setup :
-#### Before importing simpleplacepicker module into your android project, make sure that :
+#### make sure that :
 1. your project manifest file contains internet and location permissions
 ```xml
 <uses-permission android:name="android.permission.INTERNET" />
